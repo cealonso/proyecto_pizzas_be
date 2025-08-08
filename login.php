@@ -29,6 +29,7 @@
   } else {
     echo "<h1 class='font-[Raleway] flex justify-center items-center h-screen'>Login Invalido !!</h1>";
   }
+  // Aca termina PHP
   ?>
 
 </body>
